@@ -6,6 +6,9 @@ GeoExplorationGame is a blockchain-based exploration game where users can discov
 
 ## Contract Address
 0xb1f0bAF001CB03abBC2E8cd9C5Ea5be5C73275dA
+![image](https://github.com/user-attachments/assets/b8ee21b0-9770-432a-88c8-67ec882d9d57)
+
+
 
 
 ## Key Features
